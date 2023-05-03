@@ -1,0 +1,14 @@
+{
+   "div1":{
+      "name": "Luca",
+      "lastName": "Verdi",
+      "id":"div1",
+      "innerHTML":"div1"
+   },
+   "div2":{
+      "name": "Giuseppe",
+      "lastName": "Bianchi",
+      "id":"div2",
+      "innerHTML":"div2"
+   }
+}
