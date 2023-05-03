@@ -10,5 +10,11 @@
       "lastName": "Bianchi",
       "id":"div2",
       "innerHTML":"div2"
+   },
+   "div3":{
+      "name": "Giovanni",
+      "lastName": "Rossi",
+      "id":"div3",
+      "innerHTML":"div3"
    }
 }
